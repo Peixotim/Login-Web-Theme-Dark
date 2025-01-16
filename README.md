@@ -3,7 +3,7 @@
 </h1>
 
 
-## :👽: Sobre o projeto
+## 👽 Sobre o projeto
 Pagina de login responsiva basica onde da a opção de login e senha;
 
 ## :computer: Tecnologias usadas:
